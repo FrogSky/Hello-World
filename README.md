@@ -1,2 +1,2 @@
 # Hello-World
-My forst public repository,oh yeah!
+My first public repository,oh yeah!
